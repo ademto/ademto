@@ -12,10 +12,9 @@ My GitHub is a hub for cybersecurity tools, full-stack projects, and cloud secur
 
 - **Languages**: Python, Bash, PowerShell, JavaScript, PHP  
 - **Frontend**: HTML5, CSS3, Tailwind CSS, React, Vite, JavaScript  
-- **Cyber Tools**: Nmap, Burp Suite, Metasploit, Wireshark, FFUF, Impacket  
 - **Platforms**: AWS, Azure, Google Cloud  
 - **Frameworks**: MITRE ATT&CK, OWASP Top 10, NIST CSF  
-- **Specialties**: Penetration Testing, Active Directory Security, Cloud Hardening, Secure Web Dev
+- **Specialties**: Penetration Testing, Active Directory Security, Cloud Hardening, Secure Web Development
 
 ---
 
@@ -51,6 +50,7 @@ My GitHub is a hub for cybersecurity tools, full-stack projects, and cloud secur
 ⭐ **Fun Fact**: I once spent 12 hours chasing a single CTF flag — and caught it. Persistence is 🔑.
 
 > *"Every system has flaws. The good ones find them first."*
+
 
 <!--
 **ademto/ademto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

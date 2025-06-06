@@ -20,9 +20,9 @@ My GitHub is a hub for cybersecurity tools, full-stack projects, and cloud secur
 
 ## 🚀 Featured Projects
 
-- 🛡️ [Cyber Cheatsheet](https://cyberref.netlify.app) – Categorized cybersecurity reference hub  
+- 🛡️ [Cyber Cheatsheet](https://cheatsheet.ademto.com) – Categorized cybersecurity reference hub  
 - 🏛️ AD Security Lab – Active Directory attack & defense lab in hybrid environment  
-- 💳 CheqPro – Financial web app for transaction & analytics  
+- 💳 [CheqPro](https://cheqpro.tech) – Financial web app for transaction & analytics  
 - 🌍 [REST Countries App](https://rest-countries-ademto.netlify.app) – API-based, theme-switching country explorer  
 - 🧱 WPFortress – WordPress CLI vulnerability scanner  
 - 🛒 Shopify Store – Custom e-commerce frontend  
@@ -35,7 +35,6 @@ My GitHub is a hub for cybersecurity tools, full-stack projects, and cloud secur
 
 - ✅ CompTIA Security+ Certified  
 - 💼 Microsoft 365 Certified: Fundamentals  
-- 🥇 Scholarship Pass – Consensus 2025 (Blockchain Security)
 
 ---
 

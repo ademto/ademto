@@ -40,7 +40,7 @@ My GitHub is a hub for cybersecurity tools, full-stack projects, and cloud secur
 
 ## 📬 Let’s Connect
 
-- 📧 Email: [info@emmanueladetoro.com](mailto:info@emmanueladetoro.com)  
+<!-- - 📧 Email: [info@emmanueladetoro.com](mailto:info@emmanueladetoro.com)  -->
 - 💼 LinkedIn: [Emmanuel Adetoro](https://www.linkedin.com/in/emmanuel-adetoro)  
 - 🌐 Portfolio: [emmanueladetoro.com](https://emmanueladetoro.com)
 

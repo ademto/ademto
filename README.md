@@ -46,9 +46,30 @@ My GitHub is a hub for cybersecurity tools, full-stack projects, and cloud secur
 
 ---
 
-⭐ **Fun Fact**: I once spent 12 hours chasing a single CTF flag — and caught it. Persistence is 🔑.
-
 > *"Every system has flaws. The good ones find them first."*
+
+### Streak
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=ademto">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ademto" />
+</a>
+
+<br>
+
+### Contribution History
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ademto&theme=default)
+
+## Github stats
+
+<!--
+[![](https://raw.githubusercontent.com/KingDavidJnr/KingDavidJnr/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ademto&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ademto&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ademto&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ademto&theme=default&utcOffset=8)
+
+
 
 
 <!--

@@ -33,26 +33,14 @@ My GitHub is a hub for cybersecurity tools, full-stack projects, and cloud secur
   - Organized by categories and alphabetically for easy navigation
 
 ### 🛡️ **Security Tools & Labs**
-- ��️ [Cyber Cheatsheet](https://cheatsheet.ademto.com) – Categorized cybersecurity reference hub  
-- ��️ AD Security Lab – Active Directory attack & defense lab in hybrid environment  
-- 🧱 WPFortress – WordPress CLI vulnerability scanner  
+- [Cyber Cheatsheet](https://cheatsheet.ademto.com) – Categorized cybersecurity reference hub  
+- AD Security Lab – Active Directory attack & defense lab in hybrid environment  
 
 ### 💻 **Full-Stack Development**
 - �� [CheqPro](https://cheqpro.tech) – Financial web app for transaction & analytics  
-- 🌍 [REST Countries App](https://rest-countries-ademto.netlify.app) – API-based, theme-switching country explorer  
-- 🛒 Shopify Store – Custom e-commerce frontend  
+- 🌍 [REST Countries App](https://rest-countries-ademto.netlify.app) – API-based, theme-switching country explorer   
 
 > 👉 Explore them in pinned repos or on [emmanueladetoro.com](https://emmanueladetoro.com)
-
----
-
-## 🎓 Certifications & Achievements
-
-- ✅ CompTIA Security+ Certified  
-- 💼 Microsoft 365 Certified: Fundamentals  
-- 🔍 **Recent Achievement**: Successfully discovered and documented critical WordPress vulnerability (CVE-2024-10924)
-- 📚 **Educational Impact**: Built comprehensive cybersecurity learning platform
-
 ---
 
 ## 📬 Let's Connect

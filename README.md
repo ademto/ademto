@@ -65,7 +65,7 @@ My GitHub is a hub for cybersecurity tools, full-stack projects, and cloud secur
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ademto&theme=default)
 
 ## Github stats
-
+-->
 <!--
 [![](https://raw.githubusercontent.com/KingDavidJnr/KingDavidJnr/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 -->

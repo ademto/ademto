@@ -50,7 +50,7 @@ My GitHub is a hub for cybersecurity tools, full-stack projects, and cloud secur
 - 🌐 Portfolio: [emmanueladetoro.com](https://emmanueladetoro.com)
 
 ---
-
+<!--
 > *"Every system has flaws. The good ones find them first."*
 
 ### Streak
@@ -73,7 +73,7 @@ My GitHub is a hub for cybersecurity tools, full-stack projects, and cloud secur
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ademto&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ademto&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ademto&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ademto&theme=default&utcOffset=8)
-
+-->
 <!--
 **ademto/ademto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,90 +1,67 @@
-# 👋 Hi, I'm Emmanuel Adetoro
-
-🔐 **Cybersecurity Professional | Full-Stack Developer | Cloud Security Enthusiast**
+# 👋 Hey, I'm Emmanuel Adetoro
 
 I make computers do things you *can't possibly imagine*. From identifying and fixing vulnerabilities before attackers could exploit them, to building secure, scalable web platforms — I bridge the gap between development and defense.
 
-My GitHub is a hub for cybersecurity tools, full-stack projects, and cloud security labs, all created to support ethical hacking, digital defense, and real-world learning.
+> “I code for impact, I secure for defense, and I build for the Kingdom.”
 
 ---
 
-## 🛠️ Tech & Tools
+## 💡 About Me
 
-- **Languages**: Python, Bash, PowerShell, JavaScript, PHP  
-- **Frontend**: HTML5, CSS3, Tailwind CSS, React, Vite, JavaScript  
-- **Platforms**: AWS, Azure, Google Cloud  
-- **Frameworks**: MITRE ATT&CK, OWASP Top 10, NIST CSF  
-- **Specialties**: Penetration Testing, Active Directory Security, Cloud Hardening, Secure Web Development
+- 🔭 Currently working on [Demtos](https://demtos.com) — a multi-tenant SaaS platform for churches and ministries  
+- 🧠 Deepening expertise in Active Directory attack/defense techniques  
+- 🛡️ Passionate about blending faith, cybersecurity, and software engineering into one mission  
+- ⚡ Fun fact: I’m a tech Swiss army knife — I build SaaS apps, secure hybrid networks, and run church livestreams, all with the same passion for tech and impact  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: JavaScript, TypeScript, Python  
+- **Frameworks**: Node.js, Express, NestJS, React, Next.js  
+- **Tools**: Docker, GitHub Actions, Supabase  
+- **Cloud**: Azure, AWS  
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Collaboration Interests
 
-### 🔒 **Latest Security Research**
-- 🎯 **[WordPress CVE-2024-10924 Research](https://github.com/ademto/wordpress-cve-2024-10924-pentest)** – Critical 2FA bypass vulnerability (CVSS 9.8) in Really Simple SSL plugin
-  - Complete black-box penetration testing methodology
-  - Python exploit development with visual evidence
-  - Comprehensive remediation and security recommendations
-
-### 📚 **Educational Tools**
-- 🎓 **[Cyber Glossary](https://www.cyberglossary.study/)** – Comprehensive cybersecurity reference hub with 80+ terms
-  - Clear, accurate explanations of cybersecurity concepts
-  - Career-focused learning with relevant certifications
-  - Organized by categories and alphabetically for easy navigation
-
-### 🛡️ **Security Tools & Labs**
-- [Cyber Cheatsheet](https://cheatsheet.ademto.com) – Categorized cybersecurity reference hub  
-- AD Security Lab – Active Directory attack & defense lab in hybrid environment  
-
-### 💻 **Full-Stack Development**
-- �� [CheqPro](https://cheqpro.tech) – Financial web app for transaction & analytics  
-- 🌍 [REST Countries App](https://rest-countries-ademto.netlify.app) – API-based, theme-switching country explorer   
-
-> 👉 Explore them in pinned repos or on [emmanueladetoro.com](https://emmanueladetoro.com)
----
-
-## 📬 Let's Connect
-
-<!-- - 📧 Email: [info@emmanueladetoro.com](mailto:info@emmanueladetoro.com)  -->
-- 💼 LinkedIn: [Emmanuel Adetoro](https://www.linkedin.com/in/emmanuel-adetoro)  
-- 🌐 Portfolio: [emmanueladetoro.com](https://emmanueladetoro.com)
+- 🔐 Cybersecurity projects — penetration testing, security labs, cloud hardening  
+- ☁️ Cloud deployments & security (Azure, AWS, hybrid environments)  
+- 📚 Creating educational tools for cybersecurity learners  
+- 🙏 Tech projects that serve churches, nonprofits, and communities  
 
 ---
-<!--
-> *"Every system has flaws. The good ones find them first."*
 
-### Streak
+## 🛠️ Featured Project: Demtos
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=ademto">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ademto" />
-</a>
+**Demtos** is a multi-tenant SaaS platform I’m building to help churches manage people, events, giving, and media — all in one secure, scalable system. It’s gospel-first, cloud-native, and designed to serve ministries with modern tools that respect their mission.
 
-<br>
+---
 
-### Contribution History
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ademto&theme=default)
+## 📈 GitHub Flair
 
-## Github stats
--->
-<!--
-[![](https://raw.githubusercontent.com/KingDavidJnr/KingDavidJnr/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanueladetoro&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueladetoro&layout=compact&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=emmanueladetoro&color=blue)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ademto&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ademto&theme=default)
+---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ademto&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ademto&theme=default&utcOffset=8)
--->
-<!--
-**ademto/ademto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 2025 Goals
 
-Here are some ideas to get you started:
+- 🚀 Launch Demtos  
+- 🏛️ Onboard 1,000+ organizations  
+- 🎤 Speak at a cybersecurity or faith-tech conference  
+- 🧑‍🏫 Mentor upcoming developers and security engineers  
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- �� Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect With Me
+
+- 🌐 [emmanueladetoro.com](https://emmanueladetoro.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-adetoro/)  
+
+---
+
+> “See thou a man diligent in his work…” — Proverbs 22:29  
+> Let the code speak, let the mission lead.

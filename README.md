@@ -41,9 +41,9 @@ I make computers do things you *can't possibly imagine*. From identifying and fi
 
 ## 📈 GitHub Flair
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanueladetoro&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueladetoro&layout=compact&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=emmanueladetoro&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ademto&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ademto&layout=compact&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=ademto&color=blue)
 
 ---
 
